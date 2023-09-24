@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Back End technologies: Typescript, Express JS
 - 💞️ I’m looking to collaborate on real projects and work with companies needing a passionate Fullstack developer
 - ✨ Skills:
-  HTML, CSS, tailwinds, JavaScript, React
+ JavaScript, React
   Node.js, Express, Typescript, REST APIs
   Git, GitHub
 - 📫 Reach me at:
