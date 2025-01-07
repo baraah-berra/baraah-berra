@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Berra 
-- 👀 I’m interested in Web Development, specializing in React JS
-- 🌱 I’m currently learning Back End technologies: Typescript, Express JS, and Front End Technologies Next JS
-- 💞️ I’m looking to collaborate on real projects and work with companies needing a passionate Front-end developer, or Back-end developer.
-- ✨ Skills:
- JavaScript, React JS, Next JS
- Node.js, Express, Typescript, REST APIs
-  Git, GitHub
-- 📫 Reach me at:
-baraahalsaidramadan@email.com
-linkedin.com/in/baraahramadan/
-github.com/baraahberra
-
-<!---
-baraah-berra/baraah-berra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋, I'm Berra!
+ 👩‍💻 Passionate Web Developer specializing in React JS with a growing interest in Back-End Development.
+ 🚀 Currently exploring:
+      Front-End: Next.js
+      Back-End: TypeScript, Express.js
+ 🎯 Looking to collaborate on impactful projects with teams that need a dedicated Front-End or Full-Stack Developer.
+ 
+ ✨ Technical Skills:
+     Front-End: JavaScript, React JS, Next JS
+     Back-End: Node.js, Express.js, TypeScript, REST APIs
+     Version Control: Git, GitHub
+ 🌟 What sets me apart:
+     With a solid foundation in information systems engineering and hands-on experience in real-time IoT dashboards and e-commerce platforms, I bring a problem-solving mindset and a user-focused approach to development.
+ 📬 Let’s connect!
+     Email: baraahalsaidramadan@email.com
+     LinkedIn: linkedin.com/in/baraahramadan/
+     GitHub: github.com/baraahberra
