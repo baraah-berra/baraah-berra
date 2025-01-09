@@ -4,20 +4,20 @@ Hi there 👋, I'm Berra!
 
     🚀 Currently Exploring:
 
-      🎨 Front-End: Next.js
+      🎨 Front-End: Next.js.
 
-      🛠️ Back-End: TypeScript, Express.js
+      🛠️ Back-End: TypeScript, Express.js.
 
    🎯 Looking to collaborate on impactful projects with teams that need a dedicated Front-End or Full-Stack Developer.
 
 
    ✨ Technical Skills:
 
-      💻 Front-End: JavaScript, React JS, Next JS
+      💻 Front-End: JavaScript, React JS, Next JS.
 
-      🔧 Back-End: Node.js, Express.js, TypeScript, REST APIs
+      🔧 Back-End: Node.js, Express.js, TypeScript, REST APIs.
 
-      📂 Version Control: Git, GitHub
+      📂 Version Control: Git, GitHub.
 
    🌟 What sets me apart:
 
